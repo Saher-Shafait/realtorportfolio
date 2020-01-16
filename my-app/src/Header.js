@@ -7,7 +7,9 @@ const mystyles = {
     backgroundImage: `url(${Background})`,
     height: '80vh',
     backgroundSize: 'cover',
+    
 }
+
 
 class Header extends Component {
 

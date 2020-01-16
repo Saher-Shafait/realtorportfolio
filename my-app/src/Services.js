@@ -12,7 +12,7 @@ class Services extends Component {
               <h2>What We Offer</h2>
               <div className="row">
                   <div><span>
-                 
+                    
                       </span>
                       <h5>Responsive</h5></div>
                   <div><span>
@@ -26,12 +26,35 @@ class Services extends Component {
                   <div><span>
 
                       </span>
-                      <h4>Questions</h4></div>
+                      <h5>Questions</h5></div>
               </div>
 
            </div>
         );
     }
 }
+
+// const iconsObj = [
+//     {
+     
+//     },
+//     {
+
+//     },
+//     {
+
+//     },
+//     {
+        
+//     }
+// ]
+// class Icons extends Component {
+//     render () {
+//         return 
+            
+
+        
+//         }
+//     }
 
 export default Services
