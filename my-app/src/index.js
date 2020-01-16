@@ -4,7 +4,10 @@ import './index.css';
 // import App from './App';
 import Navigation from './Navigation';
 import Header from './Header';
+import Services from './Services';
 import * as serviceWorker from './serviceWorker';
+
+
 
 class App extends Component {
     render() {
@@ -12,6 +15,7 @@ class App extends Component {
             <div>
                 <Navigation LogoTitle="Menu"/>
                 <Header title="Kevin Campbell" button="Find Out More"/>
+                <Services/>
             </div>
         );
     }
