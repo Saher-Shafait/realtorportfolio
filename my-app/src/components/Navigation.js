@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 //import './App.css';
 
-import './Navigation.css'
+import '../styles/Navigation.css';
 
 
 

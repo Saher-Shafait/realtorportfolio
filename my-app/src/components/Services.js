@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import ('./Services.css');
+import ('../styles/Services.css');
 
 
 
